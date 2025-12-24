@@ -10,7 +10,7 @@
   {
     "id": "homebrew",
     "title": "Homebrew Computer",
-    "description": "Simple CPU of my own architecture built from discrete logic chips.",
+    "description": "Simple CPU of my own architecture built from discrete logic chips on breadboards (PCBs coming soon?).",
     "image": "images/homebrew.jpg",
     "link": "https://homebrew.gwstaten.xyz/",
     "tags": ["Homebrew computing", "assembly", "electronics"]
