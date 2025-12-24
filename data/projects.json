@@ -1,0 +1,26 @@
+[
+  {
+    "id": "karenglish",
+    "title": "Karenglish",
+    "description": "Website and language learning program for the S'gaw Karen Language",
+    "image": "images/karenglish.jpg",
+    "link": "https://karenglish.gwstaten.xyz/",
+    "tags": ["Linguistics", "Education", "S'gaw Karen"]
+  },
+  {
+    "id": "homebrew",
+    "title": "Homebrew Computer",
+    "description": "Simple CPU of my own architecture built from discrete logic chips.",
+    "image": "images/homebrew.jpg",
+    "link": "https://homebrew.gwstaten.xyz/",
+    "tags": ["Homebrew computing", "assembly", "electronics"]
+  },
+  {
+    "id": "any-length-wordle",
+    "title": "Any Length Wordle",
+    "description": "A website to play wordle with any length of words from 1 letter to 52 letters",
+    "image": "images/wordle.jpg",
+    "link": "https://wordle.gwstaten.xyz/",
+    "tags": ["Web development", "wordle"]
+  }
+]
