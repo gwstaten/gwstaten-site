@@ -22,5 +22,45 @@
     "image": "images/wordle.jpg",
     "link": "https://wordle.gwstaten.xyz/",
     "tags": ["Web development", "wordle"]
+  },
+  {
+    "id": "physical-hypercube",
+    "title": "Physical 3x3x3x3 Hypercube",
+    "description": "A physical representation of a 3 layered, 4 dimensional analog of a Rubik's Cube based on Melinda Green's 2x2x2x2. Only a prototype but hopefully more to come!",
+    "image": "images/physical_hypercube.jpg",
+    "link": "http://wiki.superliminal.com/wiki/Grant%27s_Physical_4d_Puzzles",
+    "tags": ["4d", "hypercubing", "cubing"]
+  },
+  {
+    "id": "hypercube-speedsolving",
+    "title": "Hypercubing Speedsolving",
+    "description": "Speedsolving higher dimensional and non-euclidean twisty puzzles, many time World Best holder.",
+    "image": "images/hypercube-speedsolving.png",
+    "link": "https://lb.hypercubing.xyz/solver?id=7",
+    "tags": ["4d", "hypercubing", "cubing"]
+  },
+  {
+    "id": "wca-speedcubing",
+    "title": "Speedcubing",
+    "description": "I've never been super focused on regular speedcubing, but I've been to some competitions.",
+    "image": "images/wca-speedsolving.png",
+    "link": "https://www.worldcubeassociation.org/persons/2018STAT03",
+    "tags": ["cubing", "wca"]
+  },
+  {
+    "id": "chimes",
+    "title": "Chimes Website",
+    "description": "A website for Christmas Chimes videos that my family and family friends use.",
+    "image": "images/chimes.jpg",
+    "link": "https://chimes.gwstaten.xyz/",
+    "tags": ["christmas", "chimes"]
+  },
+  {
+    "id": "solver",
+    "title": "Rubik's Cube Solver",
+    "description": "A Rubik's Cube Solver I made in High School, I eventually got it working even thought it wasn't great. (sorry no link for this one)",
+    "image": "images/cube_solver.jpg",
+    "link": "/",
+    "tags": ["cubes", "arduino"]
   }
 ]
