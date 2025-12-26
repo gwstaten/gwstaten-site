@@ -59,7 +59,7 @@
     "id": "wordl",
     "title": "Wordle Analysis and Word Set Finder",
     "description": "A program (integrated into a discord bot) that analysis wordle games, word sets, etc. I wrote it in High School when I didn't know good programming practices yet so it is in desparate need of a rewrite, but it works!",
-    "image": "images/word-set-search.jpg",
+    "image": "images/word-set-search.png",
     "link": "https://github.com/gwstaten/wordl",
     "tags": ["wordle", "cpp"]
   },
