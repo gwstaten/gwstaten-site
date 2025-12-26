@@ -56,9 +56,17 @@
     "tags": ["Web development", "wordle"]
   },
   {
+    "id": "wordl",
+    "title": "Wordle Analysis and Word Set Finder",
+    "description": "A program (integrated into a discord bot) that analysis wordle games, word sets, etc. I wrote it in High School when I didn't know good programming practices yet so it is in desparate need of a rewrite, but it works!",
+    "image": "images/word-set-search.jpg",
+    "link": "https://github.com/gwstaten/wordl",
+    "tags": ["wordle", "cpp"]
+  },
+  {
     "id": "solver",
     "title": "Rubik's Cube Solver",
-    "description": "A Rubik's Cube Solver I made in High School, I eventually got it working even thought it wasn't great. (sorry no link for this one)",
+    "description": "A Rubik's Cube Solver I made as a Freshman in High School, I eventually got it working even thought it wasn't great. (sorry no link for this one, it was too long ago)",
     "image": "images/cube_solver.jpg",
     "link": "/",
     "tags": ["cubes", "arduino"]
