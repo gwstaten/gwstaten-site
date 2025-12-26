@@ -62,13 +62,5 @@
     "image": "images/word-set-search.png",
     "link": "https://github.com/gwstaten/wordl",
     "tags": ["wordle", "cpp"]
-  },
-  {
-    "id": "solver",
-    "title": "Rubik's Cube Solver",
-    "description": "A Rubik's Cube Solver I made as a Freshman in High School, I eventually got it working even thought it wasn't great. (sorry no link for this one, it was too long ago)",
-    "image": "images/cube_solver.jpg",
-    "link": "/",
-    "tags": ["cubes", "arduino"]
   }
 ]
